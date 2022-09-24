@@ -1,5 +1,17 @@
+/**
+ * Classe de démonstration
+ *
+ * @class Demo
+ *
+ */
 export class DemoClass {
-    public demoMethod(): void {
-        console.log("Hello World");
-    }
+  /**
+   * Effectue une opération de démonstration.
+   * @param a valeur a
+   * @param b valeur b
+   * @returns a + b
+   */
+  public addition(a: number, b: number): number {
+    return a + b;
+  }
 }

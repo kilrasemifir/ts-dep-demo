@@ -1,3 +1,3 @@
-import { DemoClass } from "./demo.classe";
+import { DemoClass } from './demo.classe';
 
 export { DemoClass };
