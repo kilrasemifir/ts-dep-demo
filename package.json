@@ -1,0 +1,15 @@
+{
+  "name": "ts-deps",
+  "version": "0.0.0",
+  "description": "test de création d'une dependence en typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
